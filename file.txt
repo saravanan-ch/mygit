@@ -2,10 +2,10 @@ echo " this is my first python program"
 print("hello world")
 a  = "python"
 type(a)
-<class 'int'>
+<class 'str'>
 b = 45
 type(b)
-<class 'int">
+<class 'int'>
 c = 3.5
 type(c)
 <class 'float'>
