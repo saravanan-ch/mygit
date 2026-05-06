@@ -1,2 +1,18 @@
 echo " this is my first python program"
 print("hello world")
+a  = "python"
+type(a)
+<class 'str'>
+b = 45
+type(b)
+<class 'int'>
+c = 3.5
+type(c)
+<class 'float'>
+d = True
+type(d)
+<class 'bool'>
+e = None
+type(e)
+<class 'NoneType'>
+
