@@ -1,8 +1,6 @@
-person_age = int(input("please enter your age:"))
+name = ['sara', 'kasha', 'sam', 'sally']
 
-if person_age >=60:
-    print ("senior citizen")
-else:
-    print ("normal citizen")
-
-    
+for names in name:
+    if names.startswith('s'):
+        print(names)
+    else:        print('not found')
