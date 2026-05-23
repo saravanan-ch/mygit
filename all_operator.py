@@ -78,4 +78,5 @@ a = [1,2,3]
 b = [1,2,3]
 print(f"a = {a}\nb = {b}")
 print(f"a is  b    :{a is b}         #even though values are same they stored in different memory location")
+print(f"a is not b :{a is not b}          #both have diffwrant memory location\n")       
 print(f"a is not b :{a is not b}          #both have diffwrant memory location")       
